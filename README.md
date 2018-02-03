@@ -1,2 +1,2 @@
 # OPI
-opi nails and spa websit
+opi nails and spa website
